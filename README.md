@@ -1,2 +1,2 @@
 # MINI-PROJECT
-Hello there by ChandrasekarS
+Fake Product User Review Detection using semi supervised Ml Model
