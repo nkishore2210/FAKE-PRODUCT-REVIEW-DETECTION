@@ -21,14 +21,21 @@ Our solution integrates a user-friendly web interface with a robust backend powe
 ## REQUIREMENTS
 
 ### HARDWARE
+
 Processor: Dual Core, 2.0 GHz
+
 RAM: 2 GB (minimum)
+
 Storage: 120 GB
 
 ### SOFTWARE
+
 OS: Windows 7/8/10/11
+
 Python 3.8+
+
 Framework: Streamlit
+
 Libraries: TensorFlow, Scikit-Learn, NLTK, Pandas, XGBoost
 
 ## SYSTEM ARCHITECTURE
@@ -42,8 +49,11 @@ A web-based interface for submitting reviews and visualizing results.
 2.Backend:
 
 Data preprocessing with NLP techniques (tokenization, stemming, TF-IDF).
+
 ML models for classification using ensemble learning.
+
 Database: Storage for training datasets and results.
+
 
 ![architecture](https://github.com/user-attachments/assets/9ad9bc5a-2ffb-4bde-aea2-9390e194c1fc)
 
@@ -56,15 +66,19 @@ Database: Storage for training datasets and results.
 1. Performance Metrics:
 
 Accuracy: 88.11%
+
 Precision: 0.87
+
 Recall: 0.86
 
 2. Impact:
 
 Enhanced consumer trust by identifying fraudulent reviews.
+
 Scalable integration for large e-commerce platforms.
 
 ## REFERENCES
 
 1. Shi, H., Liu, C., et al., "Sentiment Analysis of Online Reviews Using Machine Learning Techniques."
+   
 2. Khatri, D., et al., "Fake Review Detection Using Supervised Learning Algorithms."
