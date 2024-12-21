@@ -42,11 +42,11 @@ Libraries: TensorFlow, Scikit-Learn, NLTK, Pandas, XGBoost
 
 The architecture includes the following components:
 
-1.Frontend:
+1. Frontend:
 
 A web-based interface for submitting reviews and visualizing results.
 
-2.Backend:
+2.  Backend:
 
 Data preprocessing with NLP techniques (tokenization, stemming, TF-IDF).
 
@@ -65,17 +65,17 @@ Database: Storage for training datasets and results.
 
 1. Performance Metrics:
 
-Accuracy: 88.11%
+  Accuracy: 88.11%
 
-Precision: 0.87
+  Precision: 0.87
 
-Recall: 0.86
+  Recall: 0.86
 
 2. Impact:
 
-Enhanced consumer trust by identifying fraudulent reviews.
+  Enhanced consumer trust by identifying fraudulent reviews.
 
-Scalable integration for large e-commerce platforms.
+  Scalable integration for large e-commerce platforms.
 
 ## REFERENCES
 
