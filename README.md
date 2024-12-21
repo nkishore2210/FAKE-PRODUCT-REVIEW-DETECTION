@@ -36,9 +36,11 @@ Libraries: TensorFlow, Scikit-Learn, NLTK, Pandas, XGBoost
 The architecture includes the following components:
 
 1.Frontend:
+
 A web-based interface for submitting reviews and visualizing results.
 
 2.Backend:
+
 Data preprocessing with NLP techniques (tokenization, stemming, TF-IDF).
 ML models for classification using ensemble learning.
 Database: Storage for training datasets and results.
